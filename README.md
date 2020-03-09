@@ -70,9 +70,4 @@ This project is part of my curriculum as I progress through [Flatiron School's](
 * If you have any questions, you can contact me at camerynrhosyn@gmail.com
 
 ### Resources Used:
- - [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
- - [Markdown Guide](https://www.markdownguide.org/)
- - [Pandas](https://pandas.pydata.org/)
- - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
- - [ChooseALicense.com](https://choosealicense.com/licenses/mit/#)
- - [dillinger](dillinger.io)
+ - https://github.com/camrhosyn/resources/blob/master/README.md
