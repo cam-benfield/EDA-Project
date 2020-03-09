@@ -7,6 +7,11 @@ This project is part of my curriculum as I progress through [Flatiron School's](
 ## Purpose:
  The purpose of this project is to suggest a strategy for making the foray into movie production for the Microsoft Corporation based on data pulled from IMDB and scraped from various sources across the internet.
 
+ Information needed from this exploration includes:
+ - What genres of movies do best in theaters?
+ - What directors create the highest grossing movies?
+ - How much return is expected on production costs?
+
 ## Methods:
  - Data Cleaning
  - SQL Querying
@@ -38,20 +43,13 @@ This project is part of my curriculum as I progress through [Flatiron School's](
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
+2. Raw Data is being kept [here](https://github.com/camrhosyn/EDA-Project/tree/master/zippedData) within this repo.
+3. etc...
 *If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
+4. Follow setup [instructions](Link to file)
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
+* [Notebook/Markdown/Slide Deck Title](link)
 * [Blog Post](link)
  - Jupyter Notebook
  - ReadMe
