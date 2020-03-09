@@ -3,14 +3,5 @@
 __pycache__
 *.db
 *.pytest_cache
-bom.movie_gross.csv
-imdb.name.basics.csv
-imdb.title.akas.csv
-imdb.title.basics.csv
-imdb.title.crew.csv
-imdb.title.principals.csv
-imdb.title.ratings.csv
-rt.movie_info.tsv
-rt.reviews.tsv
-tmdb.movies.csv
-tn.movie_budgets.csv
+zippedData/*.csv
+zippedData/*.tsv
