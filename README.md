@@ -1,9 +1,10 @@
 # Movie Data Review Project
----
 *By Cameryn Rhosyn*
+
 This project is part of my curriculum as I progress through [Flatiron School's](https://flatironschool.com/) Data Science program. Information on this program can be found at: https://flatironschool.com/career-courses/data-science-bootcamp.
+
 **--Project Status: Active**
----
+
 ## Purpose:
  The purpose of this project is to suggest a strategy for making the foray into movie production for the Microsoft Corporation based on data pulled from IMDB and scraped from various sources across the internet.
 
