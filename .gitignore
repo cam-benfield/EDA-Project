@@ -5,3 +5,4 @@ __pycache__
 *.pytest_cache
 zippedData/*.csv
 zippedData/*.tsv
+movies.sqlite
