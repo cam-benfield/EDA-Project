@@ -31,27 +31,19 @@ This project is part of my curriculum as I progress through [Flatiron School's](
  - Rotten Tomatoes Data
  - Box Office Mojo Data
  - TMDb Data
+ - Tickemaster Data
 ---
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modeling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+This project's intent is to provide a plan for how Microsoft can make the jump into producing movies. It outlines the financial expectations, personnel considerations, as well as content considerations that will bring the most success to this venture.
 
 
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/camrhosyn/EDA-Project/tree/master/zippedData) within this repo.
-3. etc...
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-4. Follow setup [instructions](Link to file)
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide Deck Title](link)
+* [Presentation](https://docs.google.com/presentation/d/1eNB4Rn81YiwBKfahzeCa_oNw0nMZ7090sZJxJUixT50/edit?usp=sharing)
+* [Jupyter Notebook](student.ipynb)
 * [Blog Post](link)
- - Jupyter Notebook
- - ReadMe
- - Blog Post
- - Presentation PDF
- - Video
+* [ReadMe](README.md)
+* [Presentation PDF](presentation.pdf)
+* Video
 
 
 ## Contributors:
