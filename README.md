@@ -43,13 +43,7 @@ This project's intent is to provide a plan for how Microsoft can make the jump i
 * [Blog Post](link)
 * [ReadMe](README.md)
 * [Presentation PDF](presentation.pdf)
-* Video
-
-## Project Takeaways
-Overall, Microsoft's move into the movie business would likely result in solid returns on investments. Looking at content, genre and rating are likely the most important focuses, as those are the biggest "filters" that people use to choose what movies they go to see. Next, personnel concerns become relevant, as directors and writers are typically genre-specific and it's important to ensure that those decisions are in line with the goals of the specific film production. Finally, the financials of the production must align with the goals of the company and what needs to be gathered from the data is what the general investment would need to be in order to promote that ROI.
-
-With those considerations in mind, the recommendations that the data supports are as follows. Based on the trends of the past 10-15 years, it is best to produce action, adventure, drama, and comedy movies, as they tend to do best in the box office, as well as doing best with ratings. In terms of audience, the most commonly seen ratings in profitable movies are typically PG-13 to R, with G and NC-17 being exceptionally rare. As far as directors go, there are a few recommendations that can be made based on recent history, the primary ones at this point being Christopher Nolan, 
-
+* [Video](https://drive.google.com/file/d/1CV_zVSX3mtEPM0NeF77qab91IHKqiKsJ/view?usp=sharing)
 
 
 ## Contributors:
